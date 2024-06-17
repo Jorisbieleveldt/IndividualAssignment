@@ -1,3 +1,5 @@
+#This is the file that I created after the tutorial, enhancing the code myself
+
 import pygame
 import time
 import random
